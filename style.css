@@ -1,17 +1,50 @@
 body {
-     margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1000px;
+  height: 1000px;
+  border: 0;
+  margin-top: 0;
+}
+.header {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: bisque;
+  padding: 10px;
+}
+.menu {
+  background-color: darkorange;
+  padding: 10px;
+}
+.menu a {
+  text-decoration: none;
+  color: black;
 }
 area {
-     width: 100%;
-     height: 100%;
+  width: 100%;
+  height: 100%;
 }
+
 #pixels {
-     position: relative;
-     top: 0;
-     left: 0;
-     width: 1000px;
-     height: 1000px;
-     border: 0;
-     margin-left: auto;
-     margin-right: auto;
+  background-color: #ccc;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1000px;
+  height: 1000px;
+  border: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: none;
+  object-fit: cover;
 }
