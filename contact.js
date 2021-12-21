@@ -1,10 +1,10 @@
 // var mainDiv = document.getElementById('workMap');
 var cntObj = {
-      contactImg: '/img.jpg',
-      fullName: 'Name Surname: Conor McGregor',
-      eMail: 'Email: pixels@gmail.com',
-      phone: 'Phone: +994 55 555-55-55',
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil',
+      contactImg: 'https://www.codeitbro.com/wp-content/uploads/2020/09/benefits-of-computer-programming.jpg',
+      fullName: 'Conor McGregor',
+      eMail: 'pixels@gmail.com',
+      phone: '+994 55 555-55-55',
+      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihilLorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil',
   };
   
   
@@ -22,17 +22,17 @@ var cntObj = {
       contactText.appendChild(cText)
 
       let cEmail = document.createElement("span");
-      cEmail.innerHTML = cntObj.eMail
+      cEmail.innerHTML = "Email : " + cntObj.eMail
       let contactEmail = document.getElementById("contactEmail")
       contactEmail.appendChild(cEmail)
 
       let cName = document.createElement("span");
-      cName.innerHTML = cntObj.fullName
+      cName.innerHTML = "Ad Soyad : " + cntObj.fullName
       let contactName = document.getElementById("contactName")
       contactName.appendChild(cName)
 
       let cPhone = document.createElement("span");
-      cPhone.innerHTML = cntObj.phone
+      cPhone.innerHTML = "Əlaqə nömrəsi : " + cntObj.phone
       let contactPhone = document.getElementById("contactPhone")
       contactPhone.appendChild(cPhone)
   }
