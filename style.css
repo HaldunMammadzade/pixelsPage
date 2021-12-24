@@ -7,8 +7,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 .header {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -26,14 +25,13 @@ body {
 }
 .menu {
   background-color: #8f8796;
-  padding: 10px;
+  padding: 10px 20px;
   display: flex;
   justify-content: end;
 }
 .menu a {
   text-decoration: none;
   color: white;
-  margin: 0 20px;
   font-weight: 600;
 }
 .line {
@@ -47,24 +45,14 @@ body {
   width: 0;
   z-index: -1;
   transition: all 0.3s ease-in;
-  -webkit-transition: all 0.3s ease-in;
-  -moz-transition: all 0.3s ease-in;
-  -ms-transition: all 0.3s ease-in;
-  -o-transition: all 0.3s ease-in;
 }
 .line:hover::before {
   left: -5px;
   bottom: -5px;
-  border-radius: 10px;
+  border-radius: 5px;
   width: 100%;
-  /*margin-top: -5px;
-  */
   background: #431667;
   height: 100%;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
 }
 
 area {
@@ -73,14 +61,10 @@ area {
 }
 
 #pixels {
-  position: relative;
-  top: 0;
-  left: 0;
   width: 1000px;
   height: 1000px;
   border: 0;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   text-align: center;
 }
 
@@ -88,7 +72,7 @@ area {
   display: flex;
   margin: 1rem 0;
 }
-#contactImg {
+#banner {
   width: 35%;
   position: relative;
   height: 500px;
@@ -96,7 +80,7 @@ area {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   border-radius: 5px;
 }
-#contactImg img {
+#banner img {
   width: 100%;
   position: absolute;
   height: 100%;
@@ -144,6 +128,15 @@ area {
   font-weight: bold;
   text-align: center;
   margin-bottom: 20px;
+  width: 30%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.contact-box svg {
+  margin-right: 10px;
 }
 
 .contact-box:hover {
@@ -152,30 +145,32 @@ area {
   color: #fff;
   box-shadow: none;
 }
+.contact-box:hover svg path {
+  fill: white;
+}
 .contact-inform span {
   font-size: 18px;
 }
 
-
-@media(max-width: 1024px ) {
-    body {
-      width: 100%;
-    }
-    .contact {
-      padding: 0 30px;
-    }
-    .contact-inform {
-      padding: 0 30px;
-    }
-    .main {
-      width: 1000px;
-    }
+@media (max-width: 1024px) {
+  body {
+    width: 100%;
+  }
+  .contact {
+    padding: 0 30px;
+  }
+  .contact-inform {
+    padding: 0 30px;
+  }
+  .main {
+    width: 1000px;
+  }
 }
-@media ( max-width: 768px ) {
+@media (max-width: 768px) {
   .contact {
     display: block;
   }
-  #contactImg {
+  #banner {
     width: 100%;
   }
   #contactText {
@@ -201,4 +196,34 @@ area {
   .header {
     padding: 10px 20px !important;
   }
+}
+
+.holderSpan {
+  width: 10px;
+  height: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  background-color: lightgray;
+  float: left;
+  z-index: -1;
+  display: block;
+}
+
+#mapHolder {
+  width: 1000px;
+  height: 1000px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu svg {
+  width: 16px;
+  height: 16px;
+}
+
+.menu svg path {
+  fill: white;
 }

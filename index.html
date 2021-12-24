@@ -9,18 +9,53 @@
   <body class="main">
     <div class="header">
       <div class="logo">
-        <a href=""><img src="./logo.png" alt="logo" /></a>
+        <a href="" id="logo"></a>
       </div>
       <div>
-        <p>Lorem ipsum dolor, sit amet</p>
+        <p id="headline"></p>
       </div>
     </div>
     <div class="menu">
-      <a class="line" href="contact.html">Contact</a>
+      <a id="instagram" href="">
+      <svg
+        version="1.0"
+        xmlns="http://www.w3.org/2000/svg"
+        width="64.000000pt"
+        height="64.000000pt"
+        viewBox="0 0 64.000000 64.000000"
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <g
+          transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)"
+          fill="#000000"
+          stroke="none"
+        >
+          <path
+            d="M92 623 c-18 -9 -45 -32 -60 -51 l-27 -35 0 -217 0 -217 27 -35 c47
+-62 72 -68 288 -68 216 0 241 6 288 68 l27 35 0 217 0 217 -27 35 c-48 62 -72
+68 -290 68 -158 0 -199 -3 -226 -17z m460 -71 l33 -32 0 -200 0 -200 -33 -32
+-32 -33 -200 0 -200 0 -32 33 -33 32 0 200 0 199 29 30 c16 16 38 32 50 35 11
+2 103 3 203 3 l183 -2 32 -33z"
+          />
+          <path
+            d="M460 511 c-8 -17 -7 -24 10 -41 28 -28 63 -11 58 28 -4 35 -51 44
+-68 13z"
+          />
+          <path
+            d="M255 466 c-101 -44 -125 -178 -46 -257 65 -65 157 -65 222 0 124 124
+-15 327 -176 257z m139 -76 c65 -63 18 -173 -74 -173 -91 0 -138 107 -75 173
+45 47 100 47 149 0z"
+          />
+        </g>
+      </svg>
+    </a>
+    <a class="line" href="contact.html">Contact</a>
     </div>
     <div id="pixels">
-      <map id="workMap" name="workmap"></map>
+      <div id="mapHolder"></div>
+      <map id="map" name="map"></map>
     </div>
   </body>
+  <script src="data.js"></script>
   <script src="index.js"></script>
 </html>
