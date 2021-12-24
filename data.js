@@ -1,7 +1,7 @@
 var areas = [
   {
-    url: "site1.com",
-    title: "site1",
+    url: "http://havas.az",
+    title: "Bomba agentlik",
     start: [1, 1],
     end: [2, 2],
     alt: "alt",
