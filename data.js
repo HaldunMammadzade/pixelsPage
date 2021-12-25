@@ -16,13 +16,13 @@ var areas = [
   {
     url: "site3.com",
     title: "site3",
-    start: [11, 1],
-    end: [12, 2],
+    start: [30, 4],
+    end: [35, 8],
     alt: "alt",
   },
   {
-    url: "site4.com",
-    title: "site4",
+    url: "https://3sual.az/",
+    title: "3sual.az | İntellektual Oyunlar üçün platforma",
     start: [12, 1],
     end: [13, 2],
     alt: "alt",
