@@ -3,7 +3,7 @@ var areas = [
     url: "http://havas.az",
     title: "Havas Azerbaijan",
     start: [1, 1],
-    end: [3, 2],
+    end: [4, 3],
     alt: "alt",
   },
   {
