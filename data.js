@@ -7,10 +7,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site2.com",
-    title: "site2",
-    start: [7, 1],
-    end: [11, 2],
+    url: "https://www.instagram.com/tapmacam/",
+    title: "Tapmaca Academy",
+    start: [16, 10,
+    end: [21, 15],
     alt: "alt",
   },
   {
