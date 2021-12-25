@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   width: 1000px;
   height: 100%;
-  font-family: "Raleway", sans-serif;
+  font-family: "Times New Roman", sans-serif;
 }
 .header {
   margin: 0 auto;
@@ -18,7 +18,7 @@ body {
   color: #fff;
 }
 .logo img {
-  width: 100px !important;
+  width: 200px !important;
   height: 70px !important;
 
   object-fit: contain !important;
