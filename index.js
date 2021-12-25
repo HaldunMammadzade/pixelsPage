@@ -2,7 +2,7 @@ window.onload = function () {
   var map = document.getElementById("map");
   var data = {
     showGrid: false,
-    baseImage: "./images/base.jpg",
+    baseImage: "./images/1.png",
     banner: "./images/contact.jpg",
     fullName: "Eşqin İbrahimov",
     email: "heyatqutusu@gmail.com",
