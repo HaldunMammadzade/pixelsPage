@@ -171,7 +171,7 @@ var areas = [
     url: "site24.com",
     title: "site24",
     start: [1, 18],
-    end: [2, 19],
+    end: [2, 20],
     alt: "alt",
   },
   {
