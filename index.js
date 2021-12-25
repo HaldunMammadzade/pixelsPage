@@ -7,7 +7,7 @@ window.onload = function () {
     fullName: "Eşqin İbrahimov",
     email: "heyatqutusu@gmail.com",
     phone: "+994 51 345 25 17",
-    headline: "🎁 QUTU AL, BALACA TUNARA HƏYAT VER! <br> 🎁 1 QUTU – 10 AZN ",
+    headline: "🎁 QUTU AL, BALACA TUNARA HƏYAT VER! <br> 🎁 1 QUTU (XANA) – 10 ₼",
     logo: "./images/logo.png",
     instagram: 'https://www.instagram.com/heyatqutusu.az/',
     text: "Xeyriyyə. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihilLorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Errohil",
