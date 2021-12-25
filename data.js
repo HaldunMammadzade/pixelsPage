@@ -79,8 +79,8 @@ var areas = [
   {
     url: "site12.com",
     title: "site12",
-    start: [1, 2],
-    end: [2, 3],
+    start: [1, 7],
+    end: [2, 9],
     alt: "alt",
   },
   {
