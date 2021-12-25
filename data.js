@@ -2,8 +2,8 @@ var areas = [
   {
     url: "http://havas.az",
     title: "Havas Azerbaijan",
-    start: [1, 1],
-    end: [4, 3],
+    start: [47, 9],
+    end: [53, 15],
     alt: "alt",
   },
   {
