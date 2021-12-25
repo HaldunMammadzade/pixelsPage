@@ -191,6 +191,9 @@ area {
     overflow-x: hidden;
     overflow-y: hidden;
   }
+  .contact-box {
+    width: 100%;
+  }
 }
 @media (max-width: 425px) {
   .header {
