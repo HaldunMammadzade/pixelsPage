@@ -1,7 +1,7 @@
 window.onload = function () {
   var map = document.getElementById("map");
   var data = {
-    showGrid: true,
+    showGrid: false,
     baseImage: "./images/base.jpg",
     banner: "./images/contact.jpg",
     fullName: "Eşqin İbrahimov",
