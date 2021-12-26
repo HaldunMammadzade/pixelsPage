@@ -15,7 +15,7 @@ window.onload = function () {
       banner: './images/contact.jpg',
       text: "<b>Qutu (xana) necə alınır?</b> <br> Qutu almaq üçün sadəcə sol tərəfdə (və ya instaqram səhifəmizdə) qeyd olunmuş hesaba köçürmə etmək və bu köçürmənin qəbzini bizə göndərmək kifayətdir. Ardınca köçürülən məbləğ müqabilində xana ayrılır. Siz bu xanada olmasını istədiyiniz vizualı və bu vizuala tıkladıqda aparacağı linki qeyd edirsiniz. <br><br> <b>Nümunə<b/> Yardım hesabına 250 AZN ödəmisiniz. Bu o deməkdir ki, siz artıq 25 qutu (xana) sahibisiniz. Səhifədən sizə 5x5 ölçülü sahə ayrılır. Bu sahəyə sizin vizual, həmçinin  link yerləşdirilir və 2022-ci ilin dekabrınadək aktiv qalır.  quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihilLorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quiorohil",
     },
-    counter: '<div style="border: 3px inset #ffffff; text-align: center; width: 110%; border-radius:15px;">Qalan qutuların sayı<br> <b> <center> 9919 </b> </div>',
+    counter: '<div style="border: 3px inset #ffffff; text-align: center; width: 110%; border-radius:15px;">Qalan qutuların sayı<br> <b> <center> 9908 </b> </div>',
     logo: "./images/logo.png",
     instagram: 'https://www.instagram.com/heyatqutusu.az/',
     areas,
