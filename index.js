@@ -2,15 +2,15 @@ window.onload = function () {
   var map = document.getElementById("map");
   var data = {
     showGrid: false,
-    baseImage: "./images/base.jpg",
+    baseImage: "./images/1.png",
     banner: "./images/contact.jpg",
-    fullName: "Conor McGregor",
-    email: "pixels@gmail.com",
-    phone: "+994 55 555-55-55",
-    headline: "Lorem ipsum dolor new, sit amet",
+    fullName: "Eşqin İbrahimov",
+    email: "heyatqutusu@gmail.com",
+    phone: "+994 51 345 25 17",
+    headline: "🎁 QUTU AL, BALACA TUNARA HƏYAT VER! <br> 🎁 1 QUTU (XANA) – 10 ₼",
     logo: "./images/logo.png",
-    instagram: '',
-    text: "Lorem ipsum dolor nitcg um recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihilLorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Errohil",
+    instagram: 'https://www.instagram.com/heyatqutusu.az/',
+    text: "<b>Həyatqutusu.az nədir?</b> <br>10 000 qutudan (xanadan) ibarət olan xeyriyyə veb-səhifəsidir. Səhifənin əsas məqsədi talassemiyadan əziyyət çəkən Tunarın əməliyyatı üçün 100 000 AZN toplamaqdır. Bu məqsədlə hər bir xananın qiyməti 10 AZN təşkil edir.<br>luptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihilLorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Errohil",
     areas,
   };
 
