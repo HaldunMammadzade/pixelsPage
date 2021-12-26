@@ -8,6 +8,7 @@ window.onload = function () {
     email: "heyatqutusu@gmail.com",
     phone: "+994 51 345 25 17",
     headline: "🎁 QUTU AL, BALACA TUNARA HƏYAT VER! <br> 🎁 1 QUTU (XANA) – 10 ₼",
+    counter: 'Test',
     logo: "./images/logo.png",
     instagram: 'https://www.instagram.com/heyatqutusu.az/',
     text: "<b>Həyatqutusu.az nədir?</b> <br>10 000 qutudan (xanadan) ibarət olan xeyriyyə veb-səhifəsidir. Səhifənin əsas məqsədi talassemiyadan əziyyət çəkən Tunarın əməliyyatı üçün 100 000 AZN toplamaqdır. Bu məqsədlə hər bir xananın qiyməti 10 AZN təşkil edir.<br>luptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihil Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihilLorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Error commodi reiciendis quia neque officiis.Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nihiliure, quibusdam cum recusandae nisi ut odio nesciunt debitis sint quioptio, voluptates saepe. Errohil",
@@ -16,6 +17,7 @@ window.onload = function () {
 
   function appendElements() {
     document.getElementById("headline").innerHTML = data.headline;
+    document.getElementById("counter").innerHTML = data.counter;
     const logo = document.getElementById("logo");
     const logoImg = document.createElement("img");
     logoImg.setAttribute("src", data.logo);
@@ -24,8 +26,8 @@ window.onload = function () {
     const instagram = document.getElementById("instagram");
     instagram.setAttribute("href", data.instagram);
 
-    let isContact = window.location.pathname.includes("contact");
-    if (isContact) {
+    let isContactOrAbout = page === 'about' || page === 'contact';
+    if (isContactOrAbout) {
       let cntImg = document.createElement("img");
       cntImg.setAttribute("src", data.banner);
       cntImg.setAttribute("alt", "contact image");

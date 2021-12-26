@@ -35,6 +35,7 @@ body {
 .line {
   position: relative;
   z-index: 21;
+  margin-left: 20px;
 }
 .line:before {
   content: "";
