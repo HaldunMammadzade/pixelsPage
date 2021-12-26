@@ -10,7 +10,7 @@ var areas = [
     url: "https://www.instagram.com/tapmacam/",
     title: "Tapmaca Academy",
     start: [16, 10],
-    end: [21, 15],
+    end: [22, 16],
     alt: "alt",
   },
   {
