@@ -21,10 +21,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "1",
-    title: "1",
-    start: [12, 1],
-    end: [13, 2],
+    url: "https://corabb.az/",
+    title: "Corabb | Azərbaycanın yerli corab markası",
+    start: [80, 7],
+    end: [88, 10],
     alt: "alt",
   },
   {
