@@ -30,8 +30,8 @@ var areas = [
   {
     url: "https://www.instagram.com/anar.mirzazadeh/",
     title: "Anar Mirzazadeh | Visual Artist | Creative Director | Astronaut",
-    start: [59, 58],
-    end: [62, 61],
+    start: [59, 37],
+    end: [62, 40],
     alt: "alt",
   },
   {
