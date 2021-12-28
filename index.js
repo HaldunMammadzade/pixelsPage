@@ -15,7 +15,7 @@ window.onload = function () {
       banner: './images/contact.jpg',
     text: "<b>qutular necə alınır?</b> <br> 1️⃣ Tunar üçün şəkildə qeyd olunmuş hesaba köçürmə edin<br> 2️⃣ Köçürmənin qəbzini instaqram səhifəmizə, yaxud heyatqutusu@gmail.com imeylinə və ya +994 51 345 25 17 votsap nömrəmizə göndərin. <br> Qəbz göndərildikdən sonra köçürülən məbləğ müqabilində sizin üçün qutu(lar) ayrılır. Siz bu qutu(lar)da olmasını istədiyiniz emblemi və bu vizuala kliklədikdə keçid olunacaq linki qeyd edirsiniz. <br>Sözügedən hesab körpənin ailəsinə məxsusdur, heyatqutusu.az sadəcə vasitəçidir.<br><br> <b>nümunə</b> <br>Yardım hesabına 250 AZN ödəmisiniz. Bu o deməkdir ki, siz artıq 25 qutu (xana) sahibisiniz. Səhifədən sizə 5x5 ölçülü sahə ayrılır. Bu sahəyə sizin emblem, həmçinin  link yerləşdirilir və onlar 2022-ci ilin dekabrınadək aktiv qalır. Beləcə, siz həm layihəyə dəstək olursunuz, həm də bu maraqlı saytı ziyarət edənlər şirkətinizdən, məhsulunuzdan və ya bloqunuzdan xəbərdar olurlar.<br><br><b>kimlər qutu ala bilər?</b><br> Öz şirkətini və ya həmkarları ilə birlikdə işlədikləri şirkəti, məhsulunu, sosial media səhifəsini, saytını, bloqunu, şəxsi sosial media hesabını, bir sözlə özünü bu böyük xeyirxahlıq tablosunda görən hər kəs.",
     },
-    counter: '<div style="border: 3px inset #ffffff; text-align: center; width: 110%; border-radius:15px;">Qalan qutuların sayı<br> <b> <center> 9884 </b> </div>',
+    counter: '<div style="border: 3px inset #ffffff; text-align: center; width: 110%; border-radius:15px;">Qalan qutuların sayı<br> <b> <center> 9875 </b> </div>',
     logo: "./images/logo.png",
     instagram: 'https://www.instagram.com/heyatqutusu.az/',
     areas,
