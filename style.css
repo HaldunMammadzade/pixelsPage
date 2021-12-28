@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: space-between;
   background: linear-gradient(3deg, #431667, #8f8796);
-  padding: 10px 50px;
+  padding: 1px 20px;
 }
 .header p {
   color: #fff;
