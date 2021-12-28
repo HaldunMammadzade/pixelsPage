@@ -9,7 +9,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: linear-gradient(270deg, #431667, #8f8796);
+  background: linear-gradient(22deg, #431667, #8f8796);
   padding: 10px 50px;
 }
 .header p {
@@ -23,7 +23,7 @@ body {
 }
 .menu {
   background-color: #8f8796;
-  padding: 10px 20px;
+  padding: 5px 20px;
   display: flex;
   justify-content: end;
 }
