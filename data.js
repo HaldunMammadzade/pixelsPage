@@ -28,10 +28,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site5.com",
-    title: "site5",
-    start: [13, 1],
-    end: [14, 2],
+    url: "https://www.instagram.com/anar.mirzazadeh/",
+    title: "Anar Mirzazadeh | Visual Artist | Creative Director | Astronaut",
+    start: [59, 58],
+    end: [62, 61],
     alt: "alt",
   },
   {
