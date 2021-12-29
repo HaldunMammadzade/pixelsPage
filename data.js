@@ -35,10 +35,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site6.com",
-    title: "site6",
-    start: [14, 1],
-    end: [15, 2],
+    url: "https://www.instagram.com/pakdent/",
+    title: "Pak Dent | Müasir stomatoloji klinika",
+    start: [8, 32],
+    end: [10, 34],
     alt: "alt",
   },
   {
