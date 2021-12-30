@@ -42,10 +42,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site7.com",
-    title: "site7",
-    start: [15, 1],
-    end: [16, 2],
+    url: "https://sahliyali.com/halal-nem%C9%99t-1000-b%C9%99r%C9%99k%C9%99t/",
+    title: "Halal Nemət, 1000 Bərəkət",
+    start: [63, 21],
+    end: [66, 24],
     alt: "alt",
   },
   {
@@ -179,6 +179,13 @@ var areas = [
     title: "site25",
     start: [1, 19],
     end: [2, 20],
+    alt: "alt",
+  },
+  {
+    url: "site7.com",
+    title: "site7",
+    start: [15, 1],
+    end: [16, 2],
     alt: "alt",
   },
   {
