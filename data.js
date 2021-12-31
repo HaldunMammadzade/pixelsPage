@@ -49,10 +49,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site8.com",
-    title: "site8",
-    start: [16, 1],
-    end: [17, 3],
+    url: "",
+    title: "Anonim xeyriyyəçi | E.Q.",
+    start: [94, 101],
+    end: [94, 101],
     alt: "alt",
   },
   {
