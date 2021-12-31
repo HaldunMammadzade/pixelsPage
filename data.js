@@ -49,7 +49,7 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "#",
+    url: "",
     title: "Anonim xeyriyyəçi | E.Q.",
     start: [1, 94],
     end: [8, 101],
