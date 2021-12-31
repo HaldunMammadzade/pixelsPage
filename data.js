@@ -49,7 +49,7 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "https://en.wikipedia.org/wiki/Anonymity#Anonymity_in_charity",
+    url: "#",
     title: "Anonim xeyriyyəçi | E.Q.",
     start: [1, 94],
     end: [8, 101],
