@@ -57,7 +57,7 @@ var areas = [
   },
   {
     url: "https://www.instagram.com/bluebake.az/",
-    title: "Diabetik, şəkərsiz və qlütensiz şirniyyatlar! 😋",
+    title: "BlueBake | Diabetik, şəkərsiz və qlütensiz şirniyyatlar 😋",
     start: [57, 5],
     end: [60, 8],
     alt: "alt",
