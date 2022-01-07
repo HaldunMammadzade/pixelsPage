@@ -65,8 +65,8 @@ var areas = [
   {
     url: "https://www.instagram.com/fuzzyquiz/",
     title: "Fuzzy | İntellektual asudə vaxt artıq bir trenddir!",
-    start: [33, 27],
-    end: [39, 28],
+    start: [32, 25],
+    end: [38, 26],
     alt: "alt",
   },
   {
