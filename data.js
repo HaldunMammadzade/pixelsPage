@@ -73,7 +73,7 @@ var areas = [
     url: "https://www.instagram.com/shabnam.abdullaa",
     title: "Shabnam Abdulla | Part-time Traveler & Visual storyteller",
     start: [85, 29],
-    end: [87, 31],
+    end: [86, 30],
     alt: "alt",
   },
   {
