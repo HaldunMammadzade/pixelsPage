@@ -56,10 +56,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site9.com",
-    title: "site9",
-    start: [17, 1],
-    end: [19, 3],
+    url: "https://www.instagram.com/bluebake.az/",
+    title: "Diabetik, şəkərsiz və qlütensiz şirniyyatlar! 😋",
+    start: [57, 5],
+    end: [60, 8],
     alt: "alt",
   },
   {
