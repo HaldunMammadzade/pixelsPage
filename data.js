@@ -63,10 +63,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site10.com",
-    title: "site10",
-    start: [19, 1],
-    end: [20, 2],
+    url: "https://www.instagram.com/fuzzyquiz/",
+    title: "Fuzzy | İntellektual asudə vaxt artıq bir trenddir!",
+    start: [33, 27],
+    end: [39, 28],
     alt: "alt",
   },
   {
