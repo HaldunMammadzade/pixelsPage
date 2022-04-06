@@ -58,8 +58,8 @@ var areas = [
   {
     url: "",
     title: "Anonim xeyriyyəçi | G.M.",
-    start: [81, 75],
-    end: [83, 77],
+    start: [81, 55],
+    end: [83, 57],
     alt: "alt",
   },
   {
