@@ -56,6 +56,13 @@ var areas = [
     alt: "alt",
   },
   {
+    url: "",
+    title: "Anonim xeyriyyəçi | G.M.",
+    start: [81, 83],
+    end: [75, 77],
+    alt: "alt",
+  },
+  {
     url: "https://www.instagram.com/bluebake.az",
     title: "BlueBake | Diabetik, şəkərsiz və qlütensiz şirniyyatlar 😋",
     start: [57, 5],
