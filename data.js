@@ -98,7 +98,7 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "https://www.simbrella.com/.com",
+    url: "https://www.simbrella.com",
     title: "Simbrella | First Company in the world to launch Mobile Fintech Services",
     start: [12, 20],
     end: [20, 23],
