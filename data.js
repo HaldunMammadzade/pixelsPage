@@ -62,6 +62,20 @@ var areas = [
     end: [82, 55],
     alt: "alt",
   },
+{
+    url: "",
+    title: "Anonim xeyriyyəçi | A.M.",
+    start: [22, 46],
+    end: [25, 49],
+    alt: "alt",
+  },
+{
+    url: "",
+    title: "Anonim xeyriyyəçi | E.M.",
+    start: [56, 82],
+    end: [59, 84],
+    alt: "alt",
+  },
   {
     url: "https://www.instagram.com/bluebake.az",
     title: "BlueBake | Diabetik, şəkərsiz və qlütensiz şirniyyatlar 😋",
@@ -84,10 +98,10 @@ var areas = [
     alt: "alt",
   },
   {
-    url: "site11.com",
-    title: "site11",
-    start: [20, 1],
-    end: [22, 3],
+    url: "https://www.simbrella.com/.com",
+    title: "Simbrella | First Company in the world to launch Mobile Fintech Services",
+    start: [12, 20],
+    end: [20, 23],
     alt: "alt",
   },
   {
